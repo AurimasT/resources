@@ -1,0 +1,24 @@
+.perks {
+    height: 100%;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.perks h1 {
+    font-size: 28px;
+}
+
+.perks p {
+    width: 65%;
+    text-align: center;
+    line-height: 2;
+    color: #5d5d5d;
+}
+.perks svg {
+    width: 70px;
+}
+.perks svg path {
+    fill: #2f64ad;
+}

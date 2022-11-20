@@ -1,0 +1,36 @@
+footer.footer {
+    
+    background: #fff;
+    width: 100%;
+    padding: 50px;
+}
+
+.footer {
+    background: #f7f9fa;
+}
+
+.flexem {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer a {
+    color: #686fff ;
+    text-decoration: none;
+}
+
+footer .links {
+    display: flex;
+    text-decoration: none;
+    margin-bottom: 10px;
+    gap: 30px;
+    font-size: 18px;
+}
+
+.icon {
+    display: flex;
+    width: 10%;
+    gap: 20px;
+    font-size: 2em;
+    color: #686fff;
+}
